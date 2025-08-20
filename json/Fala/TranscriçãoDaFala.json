@@ -1,0 +1,164 @@
+{
+    "durationMilliseconds": 18026,
+    "combinedPhrases": [
+        {
+            "text": "AI enables us to build amazing software that can improve healthcare, enable people to overcome physical disadvantages, empower smart infrastructure, create incredible entertainment experiences and even save the planet."
+        }
+    ],
+    "phrases": [
+        {
+            "offsetMilliseconds": 800,
+            "durationMilliseconds": 15440,
+            "text": "AI enables us to build amazing software that can improve healthcare, enable people to overcome physical disadvantages, empower smart infrastructure, create incredible entertainment experiences and even save the planet.",
+            "words": [
+                {
+                    "text": "AI",
+                    "offsetMilliseconds": 800,
+                    "durationMilliseconds": 760
+                },
+                {
+                    "text": "enables",
+                    "offsetMilliseconds": 1560,
+                    "durationMilliseconds": 480
+                },
+                {
+                    "text": "us",
+                    "offsetMilliseconds": 2040,
+                    "durationMilliseconds": 120
+                },
+                {
+                    "text": "to",
+                    "offsetMilliseconds": 2160,
+                    "durationMilliseconds": 120
+                },
+                {
+                    "text": "build",
+                    "offsetMilliseconds": 2280,
+                    "durationMilliseconds": 280
+                },
+                {
+                    "text": "amazing",
+                    "offsetMilliseconds": 2560,
+                    "durationMilliseconds": 640
+                },
+                {
+                    "text": "software",
+                    "offsetMilliseconds": 3200,
+                    "durationMilliseconds": 400
+                },
+                {
+                    "text": "that",
+                    "offsetMilliseconds": 3600,
+                    "durationMilliseconds": 240
+                },
+                {
+                    "text": "can",
+                    "offsetMilliseconds": 3920,
+                    "durationMilliseconds": 160
+                },
+                {
+                    "text": "improve",
+                    "offsetMilliseconds": 4080,
+                    "durationMilliseconds": 360
+                },
+                {
+                    "text": "healthcare,",
+                    "offsetMilliseconds": 4440,
+                    "durationMilliseconds": 680
+                },
+                {
+                    "text": "enable",
+                    "offsetMilliseconds": 5520,
+                    "durationMilliseconds": 400
+                },
+                {
+                    "text": "people",
+                    "offsetMilliseconds": 5920,
+                    "durationMilliseconds": 360
+                },
+                {
+                    "text": "to",
+                    "offsetMilliseconds": 6280,
+                    "durationMilliseconds": 160
+                },
+                {
+                    "text": "overcome",
+                    "offsetMilliseconds": 6440,
+                    "durationMilliseconds": 440
+                },
+                {
+                    "text": "physical",
+                    "offsetMilliseconds": 6880,
+                    "durationMilliseconds": 400
+                },
+                {
+                    "text": "disadvantages,",
+                    "offsetMilliseconds": 7280,
+                    "durationMilliseconds": 1120
+                },
+                {
+                    "text": "empower",
+                    "offsetMilliseconds": 8880,
+                    "durationMilliseconds": 400
+                },
+                {
+                    "text": "smart",
+                    "offsetMilliseconds": 9280,
+                    "durationMilliseconds": 400
+                },
+                {
+                    "text": "infrastructure,",
+                    "offsetMilliseconds": 9680,
+                    "durationMilliseconds": 960
+                },
+                {
+                    "text": "create",
+                    "offsetMilliseconds": 11120,
+                    "durationMilliseconds": 480
+                },
+                {
+                    "text": "incredible",
+                    "offsetMilliseconds": 11600,
+                    "durationMilliseconds": 640
+                },
+                {
+                    "text": "entertainment",
+                    "offsetMilliseconds": 12240,
+                    "durationMilliseconds": 680
+                },
+                {
+                    "text": "experiences",
+                    "offsetMilliseconds": 12920,
+                    "durationMilliseconds": 1000
+                },
+                {
+                    "text": "and",
+                    "offsetMilliseconds": 14440,
+                    "durationMilliseconds": 200
+                },
+                {
+                    "text": "even",
+                    "offsetMilliseconds": 14640,
+                    "durationMilliseconds": 480
+                },
+                {
+                    "text": "save",
+                    "offsetMilliseconds": 15120,
+                    "durationMilliseconds": 400
+                },
+                {
+                    "text": "the",
+                    "offsetMilliseconds": 15520,
+                    "durationMilliseconds": 80
+                },
+                {
+                    "text": "planet.",
+                    "offsetMilliseconds": 15600,
+                    "durationMilliseconds": 640
+                }
+            ],
+            "locale": "en-US",
+            "confidence": 0.95397204
+        }
+    ]
+}
