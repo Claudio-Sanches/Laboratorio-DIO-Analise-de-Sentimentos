@@ -81,7 +81,11 @@ O gráfico exibirá os valores percentuais de sentimento (positivo, neutro, nega
 
 Os arquivos JSON contêm os resultados das APIs de Análise de Sentimento e de Transcrição de Fala, conforme demonstrado nos laboratórios. As imagens servem como apoio visual para os experimentos realizados.
 
-by CBS construido no VScode com auxílio do Copilot
+---
+
+> by CBS construido no VScode com auxílio do Copilot
+
+---
 
 # Text and Speech Analysis Labs - Microsoft Learn AI Fundamentals (English Version)
 
@@ -165,4 +169,8 @@ The chart will display the percentage values of sentiment (positive, neutral, ne
 
 The JSON files contain the results from the Sentiment Analysis and Speech Transcription APIs, as demonstrated in the labs. The images serve as visual support for the experiments carried out.
 
-by CBS built in VSCode with Copilot assistance
+---
+
+> by CBS built in VSCode with Copilot assistance
+
+---
